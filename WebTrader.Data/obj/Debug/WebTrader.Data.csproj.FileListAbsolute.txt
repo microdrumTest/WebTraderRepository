@@ -1,0 +1,4 @@
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Data\bin\Debug\WebTrader.Data.dll
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Data\bin\Debug\WebTrader.Data.pdb
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Data\obj\Debug\WebTrader.Data.dll
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Data\obj\Debug\WebTrader.Data.pdb

@@ -1,0 +1,14 @@
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\WebTrader.Website.dll
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\WebTrader.Website.pdb
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\EntityFramework.dll
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\EntityFramework.xml
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\obj\Debug\WebTrader.Website.dll
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\obj\Debug\WebTrader.Website.pdb
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\MySql.Data.dll
+c:\users\anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\MySql.Web.dll
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\Ninject.dll
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\Ninject.pdb
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\Ninject.xml
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\obj\Debug\WebTrader.Website.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\WebTrader.Data.dll
+C:\Users\Anton\documents\visual studio 2010\Projects\WebTrader\WebTrader.Website\bin\WebTrader.Data.pdb
